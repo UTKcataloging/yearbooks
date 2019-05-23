@@ -12,7 +12,7 @@ Metadata remediation for the UTK yearbook collection following migration to Isla
         |-- yrb_1897.xml
         |-- yrb_1898.xml
         |-- etc.
-        |-- yrb_1997.xml
+        |-- yrb_2009.xml
     |-- remediation_files
         |-- yrb.openrefine.tar.gz
         |-- yrb.xpr
