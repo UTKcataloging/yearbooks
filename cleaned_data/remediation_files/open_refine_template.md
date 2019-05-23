@@ -14,7 +14,8 @@
 <mods>
 <identifier type="filename">{{cells["identifier"].value}}</identifier>
 <identifier type="pid">{{cells['PID'].value}}</identifier>
-<titleInfo><title>{{cells["title"].value}}</title></titleInfo> 
+<titleInfo><title>{{cells["title"].value}}</title></titleInfo>
+<titleInfo type="alternative"><title>{{cells['volume'].value}}</title></titleInfo> 
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form></physicalDescription>
 {{if(isBlank(cells['dateIssued'].value), '', '<originInfo><dateIssued>' + cells['dateIssued'].value + '</dateIssued><dateIssued encoding="edtf" keyDate="yes">' + cells['dateIssued'].value + '</dateIssued><publisher>' + cells['publisher'].value + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>')}}

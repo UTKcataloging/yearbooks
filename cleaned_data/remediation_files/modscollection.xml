@@ -3,7 +3,8 @@
 <mods>
 <identifier type="filename">yrb_1971</identifier>
 <identifier type="pid">yrb:35871</identifier>
-<titleInfo><title>The volunteer, 1971</title></titleInfo> 
+<titleInfo><title>The volunteer, 1971</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 74</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1971</dateIssued><dateIssued encoding="edtf" keyDate="yes">1971</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -23,7 +24,8 @@
 <mods>
 <identifier type="filename">yrb_1901</identifier>
 <identifier type="pid">yrb:10799</identifier>
-<titleInfo><title>The volunteer, 1901</title></titleInfo> 
+<titleInfo><title>The volunteer, 1901</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 5</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1901</dateIssued><dateIssued encoding="edtf" keyDate="yes">1901</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -43,7 +45,8 @@
 <mods>
 <identifier type="filename">yrb_1944</identifier>
 <identifier type="pid">yrb:25306</identifier>
-<titleInfo><title>The volunteer, 1944</title></titleInfo> 
+<titleInfo><title>The volunteer, 1944</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 47</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1944</dateIssued><dateIssued encoding="edtf" keyDate="yes">1944</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -63,7 +66,8 @@
 <mods>
 <identifier type="filename">yrb_1979</identifier>
 <identifier type="pid">yrb:38967</identifier>
-<titleInfo><title>The volunteer, 1979</title></titleInfo> 
+<titleInfo><title>The volunteer, 1979</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 82</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1979</dateIssued><dateIssued encoding="edtf" keyDate="yes">1979</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -83,7 +87,8 @@
 <mods>
 <identifier type="filename">yrb_1957</identifier>
 <identifier type="pid">yrb:30339</identifier>
-<titleInfo><title>The volunteer, 1957</title></titleInfo> 
+<titleInfo><title>The volunteer, 1957</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 60</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1957</dateIssued><dateIssued encoding="edtf" keyDate="yes">1957</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -103,7 +108,8 @@
 <mods>
 <identifier type="filename">yrb_1933</identifier>
 <identifier type="pid">yrb:21289</identifier>
-<titleInfo><title>The volunteer, 1933</title></titleInfo> 
+<titleInfo><title>The volunteer, 1933</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 36</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1933</dateIssued><dateIssued encoding="edtf" keyDate="yes">1933</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -123,7 +129,8 @@
 <mods>
 <identifier type="filename">yrb_1940</identifier>
 <identifier type="pid">yrb:23806</identifier>
-<titleInfo><title>The volunteer, 1940</title></titleInfo> 
+<titleInfo><title>The volunteer, 1940</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 43</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1940</dateIssued><dateIssued encoding="edtf" keyDate="yes">1940</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -143,7 +150,8 @@
 <mods>
 <identifier type="filename">yrb_1919</identifier>
 <identifier type="pid">yrb:15806</identifier>
-<titleInfo><title>The volunteer, 1919</title></titleInfo> 
+<titleInfo><title>The volunteer, 1919</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 22</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1919</dateIssued><dateIssued encoding="edtf" keyDate="yes">1919</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -163,7 +171,8 @@
 <mods>
 <identifier type="filename">yrb_1914</identifier>
 <identifier type="pid">yrb:14388</identifier>
-<titleInfo><title>The volunteer, 1914</title></titleInfo> 
+<titleInfo><title>The volunteer, 1914</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 18</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1914</dateIssued><dateIssued encoding="edtf" keyDate="yes">1914</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -183,7 +192,8 @@
 <mods>
 <identifier type="filename">yrb_2007</identifier>
 <identifier type="pid">yrb:47927</identifier>
-<titleInfo><title>Evolve: the volunteer annual of the University of Tennessee, 2007</title></titleInfo> 
+<titleInfo><title>Evolve: the volunteer annual of the University of Tennessee, 2007</title></titleInfo>
+<titleInfo type="alternative"><title>Evolve: the volunteer annual of the University of Tennessee, volume 110</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2007</dateIssued><dateIssued encoding="edtf" keyDate="yes">2007</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -203,7 +213,8 @@
 <mods>
 <identifier type="filename">yrb_1966</identifier>
 <identifier type="pid">yrb:33526</identifier>
-<titleInfo><title>The volunteer, 1966</title></titleInfo> 
+<titleInfo><title>The volunteer, 1966</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 69</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1966</dateIssued><dateIssued encoding="edtf" keyDate="yes">1966</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -223,7 +234,8 @@
 <mods>
 <identifier type="filename">yrb_2005</identifier>
 <identifier type="pid">yrb:47297</identifier>
-<titleInfo><title>The volunteer, 2005</title></titleInfo> 
+<titleInfo><title>The volunteer, 2005</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 108</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2005</dateIssued><dateIssued encoding="edtf" keyDate="yes">2005</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -243,7 +255,8 @@
 <mods>
 <identifier type="filename">yrb_1902</identifier>
 <identifier type="pid">yrb:11064</identifier>
-<titleInfo><title>The volunteer, 1902</title></titleInfo> 
+<titleInfo><title>The volunteer, 1902</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 6</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1902</dateIssued><dateIssued encoding="edtf" keyDate="yes">1902</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -263,7 +276,8 @@
 <mods>
 <identifier type="filename">yrb_1939</identifier>
 <identifier type="pid">yrb:23433</identifier>
-<titleInfo><title>The volunteer, 1939</title></titleInfo> 
+<titleInfo><title>The volunteer, 1939</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 42</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1939</dateIssued><dateIssued encoding="edtf" keyDate="yes">1939</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -283,7 +297,8 @@
 <mods>
 <identifier type="filename">yrb_1925</identifier>
 <identifier type="pid">yrb:18437</identifier>
-<titleInfo><title>The volunteer, 1925</title></titleInfo> 
+<titleInfo><title>The volunteer, 1925</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 28</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1925</dateIssued><dateIssued encoding="edtf" keyDate="yes">1925</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -303,7 +318,8 @@
 <mods>
 <identifier type="filename">yrb_2009</identifier>
 <identifier type="pid">yrb:48399</identifier>
-<titleInfo><title>Evolve: the volunteer annual of the University of Tennessee, 2009</title></titleInfo> 
+<titleInfo><title>Evolve: the volunteer annual of the University of Tennessee, 2009</title></titleInfo>
+<titleInfo type="alternative"><title>Evolve: the volunteer annual of the University of Tennessee, volume 112</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2009</dateIssued><dateIssued encoding="edtf" keyDate="yes">2009</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -323,7 +339,8 @@
 <mods>
 <identifier type="filename">yrb_1900</identifier>
 <identifier type="pid">yrb:10598</identifier>
-<titleInfo><title>The volunteer, 1900</title></titleInfo> 
+<titleInfo><title>The volunteer, 1900</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 4</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1900</dateIssued><dateIssued encoding="edtf" keyDate="yes">1900</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -343,7 +360,8 @@
 <mods>
 <identifier type="filename">yrb_1999</identifier>
 <identifier type="pid">yrb:45189</identifier>
-<titleInfo><title>The volunteer, 1999</title></titleInfo> 
+<titleInfo><title>The volunteer, 1999</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 102</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1999</dateIssued><dateIssued encoding="edtf" keyDate="yes">1999</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -363,7 +381,8 @@
 <mods>
 <identifier type="filename">yrb_1983</identifier>
 <identifier type="pid">yrb:40427</identifier>
-<titleInfo><title>The volunteer, 1983</title></titleInfo> 
+<titleInfo><title>The volunteer, 1983</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 86</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1983</dateIssued><dateIssued encoding="edtf" keyDate="yes">1983</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -383,7 +402,8 @@
 <mods>
 <identifier type="filename">yrb_1923</identifier>
 <identifier type="pid">yrb:17781</identifier>
-<titleInfo><title>The volunteer, 1923</title></titleInfo> 
+<titleInfo><title>The volunteer, 1923</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 26</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1923</dateIssued><dateIssued encoding="edtf" keyDate="yes">1923</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -403,7 +423,8 @@
 <mods>
 <identifier type="filename">yrb_1920</identifier>
 <identifier type="pid">yrb:16135</identifier>
-<titleInfo><title>The volunteer, 1920</title></titleInfo> 
+<titleInfo><title>The volunteer, 1920</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 23</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1920</dateIssued><dateIssued encoding="edtf" keyDate="yes">1920</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -423,7 +444,8 @@
 <mods>
 <identifier type="filename">yrb_1929</identifier>
 <identifier type="pid">yrb:19803</identifier>
-<titleInfo><title>The volunteer, 1929</title></titleInfo> 
+<titleInfo><title>The volunteer, 1929</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 32</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1929</dateIssued><dateIssued encoding="edtf" keyDate="yes">1929</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -443,7 +465,8 @@
 <mods>
 <identifier type="filename">yrb_1910</identifier>
 <identifier type="pid">yrb:13124</identifier>
-<titleInfo><title>The volunteer, 1910</title></titleInfo> 
+<titleInfo><title>The volunteer, 1910</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 14</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1910</dateIssued><dateIssued encoding="edtf" keyDate="yes">1910</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -463,7 +486,8 @@
 <mods>
 <identifier type="filename">yrb_1962</identifier>
 <identifier type="pid">yrb:32128</identifier>
-<titleInfo><title>The volunteer, 1962</title></titleInfo> 
+<titleInfo><title>The volunteer, 1962</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 65</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1962</dateIssued><dateIssued encoding="edtf" keyDate="yes">1962</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -483,7 +507,8 @@
 <mods>
 <identifier type="filename">yrb_1954</identifier>
 <identifier type="pid">yrb:29168</identifier>
-<titleInfo><title>The volunteer, 1954</title></titleInfo> 
+<titleInfo><title>The volunteer, 1954</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 57</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1954</dateIssued><dateIssued encoding="edtf" keyDate="yes">1954</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -503,7 +528,8 @@
 <mods>
 <identifier type="filename">yrb_1941</identifier>
 <identifier type="pid">yrb:24167</identifier>
-<titleInfo><title>The volunteer, 1941</title></titleInfo> 
+<titleInfo><title>The volunteer, 1941</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 44</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1941</dateIssued><dateIssued encoding="edtf" keyDate="yes">1941</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -523,7 +549,8 @@
 <mods>
 <identifier type="filename">yrb_1909</identifier>
 <identifier type="pid">yrb:12867</identifier>
-<titleInfo><title>The volunteer, 1909</title></titleInfo> 
+<titleInfo><title>The volunteer, 1909</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 13</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1909</dateIssued><dateIssued encoding="edtf" keyDate="yes">1909</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -543,7 +570,8 @@
 <mods>
 <identifier type="filename">yrb_1977</identifier>
 <identifier type="pid">yrb:38273</identifier>
-<titleInfo><title>The volunteer, 1977</title></titleInfo> 
+<titleInfo><title>The volunteer, 1977</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 80</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1977</dateIssued><dateIssued encoding="edtf" keyDate="yes">1977</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -563,7 +591,8 @@
 <mods>
 <identifier type="filename">yrb_1993</identifier>
 <identifier type="pid">yrb:43519</identifier>
-<titleInfo><title>The volunteer, 1993</title></titleInfo> 
+<titleInfo><title>The volunteer, 1993</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 96</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1993</dateIssued><dateIssued encoding="edtf" keyDate="yes">1993</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -583,7 +612,8 @@
 <mods>
 <identifier type="filename">yrb_1921</identifier>
 <identifier type="pid">yrb:16963</identifier>
-<titleInfo><title>The volunteer, 1921</title></titleInfo> 
+<titleInfo><title>The volunteer, 1921</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 24</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1921</dateIssued><dateIssued encoding="edtf" keyDate="yes">1921</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -603,7 +633,8 @@
 <mods>
 <identifier type="filename">yrb_1950</identifier>
 <identifier type="pid">yrb:27510</identifier>
-<titleInfo><title>The volunteer, 1950</title></titleInfo> 
+<titleInfo><title>The volunteer, 1950</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 53</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1950</dateIssued><dateIssued encoding="edtf" keyDate="yes">1950</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -623,7 +654,8 @@
 <mods>
 <identifier type="filename">yrb_1989</identifier>
 <identifier type="pid">yrb:42265</identifier>
-<titleInfo><title>The volunteer, 1989</title></titleInfo> 
+<titleInfo><title>The volunteer, 1989</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 92</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1989</dateIssued><dateIssued encoding="edtf" keyDate="yes">1989</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -643,7 +675,8 @@
 <mods>
 <identifier type="filename">yrb_1952</identifier>
 <identifier type="pid">yrb:28358</identifier>
-<titleInfo><title>The volunteer, 1952</title></titleInfo> 
+<titleInfo><title>The volunteer, 1952</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 55</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1952</dateIssued><dateIssued encoding="edtf" keyDate="yes">1952</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -663,7 +696,8 @@
 <mods>
 <identifier type="filename">yrb_1932</identifier>
 <identifier type="pid">yrb:20880</identifier>
-<titleInfo><title>The volunteer, 1932</title></titleInfo> 
+<titleInfo><title>The volunteer, 1932</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 35</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1932</dateIssued><dateIssued encoding="edtf" keyDate="yes">1932</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -683,7 +717,8 @@
 <mods>
 <identifier type="filename">yrb_1995</identifier>
 <identifier type="pid">yrb:44071</identifier>
-<titleInfo><title>The volunteer, 1995</title></titleInfo> 
+<titleInfo><title>The volunteer, 1995</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 98</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1995</dateIssued><dateIssued encoding="edtf" keyDate="yes">1995</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -703,7 +738,8 @@
 <mods>
 <identifier type="filename">yrb_1926</identifier>
 <identifier type="pid">yrb:18776</identifier>
-<titleInfo><title>The volunteer, 1926</title></titleInfo> 
+<titleInfo><title>The volunteer, 1926</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 29</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1926</dateIssued><dateIssued encoding="edtf" keyDate="yes">1926</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -723,7 +759,8 @@
 <mods>
 <identifier type="filename">yrb_2000</identifier>
 <identifier type="pid">yrb:45446</identifier>
-<titleInfo><title>The volunteer, 2000</title></titleInfo> 
+<titleInfo><title>The volunteer, 2000</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 103</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2000</dateIssued><dateIssued encoding="edtf" keyDate="yes">2000</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -743,7 +780,8 @@
 <mods>
 <identifier type="filename">yrb_1916</identifier>
 <identifier type="pid">yrb:15114</identifier>
-<titleInfo><title>The volunteer, 1916</title></titleInfo> 
+<titleInfo><title>The volunteer, 1916</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 20</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1916</dateIssued><dateIssued encoding="edtf" keyDate="yes">1916</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -763,7 +801,8 @@
 <mods>
 <identifier type="filename">yrb_1986</identifier>
 <identifier type="pid">yrb:41298</identifier>
-<titleInfo><title>The volunteer, 1986</title></titleInfo> 
+<titleInfo><title>The volunteer, 1986</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 89</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1986</dateIssued><dateIssued encoding="edtf" keyDate="yes">1986</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -783,7 +822,8 @@
 <mods>
 <identifier type="filename">yrb_1990</identifier>
 <identifier type="pid">yrb:42588</identifier>
-<titleInfo><title>The volunteer, 1990</title></titleInfo> 
+<titleInfo><title>The volunteer, 1990</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 93</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1990</dateIssued><dateIssued encoding="edtf" keyDate="yes">1990</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -803,7 +843,8 @@
 <mods>
 <identifier type="filename">yrb_1976</identifier>
 <identifier type="pid">yrb:37900</identifier>
-<titleInfo><title>The volunteer, 1976</title></titleInfo> 
+<titleInfo><title>The volunteer, 1976</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 79</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1976</dateIssued><dateIssued encoding="edtf" keyDate="yes">1976</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -823,7 +864,8 @@
 <mods>
 <identifier type="filename">yrb_1998</identifier>
 <identifier type="pid">yrb:44894</identifier>
-<titleInfo><title>The volunteer, 1998</title></titleInfo> 
+<titleInfo><title>The volunteer, 1998</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 101</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1998</dateIssued><dateIssued encoding="edtf" keyDate="yes">1998</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -843,7 +885,8 @@
 <mods>
 <identifier type="filename">yrb_1991</identifier>
 <identifier type="pid">yrb:42951</identifier>
-<titleInfo><title>The volunteer, 1991</title></titleInfo> 
+<titleInfo><title>The volunteer, 1991</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 94</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1991</dateIssued><dateIssued encoding="edtf" keyDate="yes">1991</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -863,7 +906,8 @@
 <mods>
 <identifier type="filename">yrb_1992</identifier>
 <identifier type="pid">yrb:43256</identifier>
-<titleInfo><title>The volunteer, 1992</title></titleInfo> 
+<titleInfo><title>The volunteer, 1992</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 95</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1992</dateIssued><dateIssued encoding="edtf" keyDate="yes">1992</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -883,7 +927,8 @@
 <mods>
 <identifier type="filename">yrb_1956</identifier>
 <identifier type="pid">yrb:29952</identifier>
-<titleInfo><title>The volunteer, 1956</title></titleInfo> 
+<titleInfo><title>The volunteer, 1956</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 59</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1956</dateIssued><dateIssued encoding="edtf" keyDate="yes">1956</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -903,7 +948,8 @@
 <mods>
 <identifier type="filename">yrb_1912</identifier>
 <identifier type="pid">yrb:13708</identifier>
-<titleInfo><title>The volunteer, 1912</title></titleInfo> 
+<titleInfo><title>The volunteer, 1912</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 16</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1912</dateIssued><dateIssued encoding="edtf" keyDate="yes">1912</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -923,7 +969,8 @@
 <mods>
 <identifier type="filename">yrb_1973</identifier>
 <identifier type="pid">yrb:36737</identifier>
-<titleInfo><title>The volunteer, 1973</title></titleInfo> 
+<titleInfo><title>The volunteer, 1973</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 76</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1973</dateIssued><dateIssued encoding="edtf" keyDate="yes">1973</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -943,7 +990,8 @@
 <mods>
 <identifier type="filename">yrb_1935</identifier>
 <identifier type="pid">yrb:22043</identifier>
-<titleInfo><title>The volunteer, 1935</title></titleInfo> 
+<titleInfo><title>The volunteer, 1935</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 38</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1935</dateIssued><dateIssued encoding="edtf" keyDate="yes">1935</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -963,7 +1011,8 @@
 <mods>
 <identifier type="filename">yrb_1960</identifier>
 <identifier type="pid">yrb:31418</identifier>
-<titleInfo><title>The volunteer, 1960</title></titleInfo> 
+<titleInfo><title>The volunteer, 1960</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 63</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1960</dateIssued><dateIssued encoding="edtf" keyDate="yes">1960</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -983,7 +1032,8 @@
 <mods>
 <identifier type="filename">yrb_1985</identifier>
 <identifier type="pid">yrb:40973</identifier>
-<titleInfo><title>The volunteer, 1985</title></titleInfo> 
+<titleInfo><title>The volunteer, 1985</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 88</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1985</dateIssued><dateIssued encoding="edtf" keyDate="yes">1985</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1003,7 +1053,8 @@
 <mods>
 <identifier type="filename">yrb_1963</identifier>
 <identifier type="pid">yrb:32473</identifier>
-<titleInfo><title>The volunteer, 1963</title></titleInfo> 
+<titleInfo><title>The volunteer, 1963</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 66</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1963</dateIssued><dateIssued encoding="edtf" keyDate="yes">1963</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1023,7 +1074,8 @@
 <mods>
 <identifier type="filename">yrb_1988</identifier>
 <identifier type="pid">yrb:41928</identifier>
-<titleInfo><title>The volunteer, 1988</title></titleInfo> 
+<titleInfo><title>The volunteer, 1988</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 91</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1988</dateIssued><dateIssued encoding="edtf" keyDate="yes">1988</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1043,7 +1095,8 @@
 <mods>
 <identifier type="filename">yrb_1938</identifier>
 <identifier type="pid">yrb:23068</identifier>
-<titleInfo><title>The volunteer, 1938</title></titleInfo> 
+<titleInfo><title>The volunteer, 1938</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 41</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1938</dateIssued><dateIssued encoding="edtf" keyDate="yes">1938</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1063,7 +1116,8 @@
 <mods>
 <identifier type="filename">yrb_2004</identifier>
 <identifier type="pid">yrb:46820</identifier>
-<titleInfo><title>The volunteer, 2004</title></titleInfo> 
+<titleInfo><title>The volunteer, 2004</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 107</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2004</dateIssued><dateIssued encoding="edtf" keyDate="yes">2004</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1083,7 +1137,8 @@
 <mods>
 <identifier type="filename">yrb_1911</identifier>
 <identifier type="pid">yrb:13459</identifier>
-<titleInfo><title>The volunteer, 1911</title></titleInfo> 
+<titleInfo><title>The volunteer, 1911</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 15</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1911</dateIssued><dateIssued encoding="edtf" keyDate="yes">1911</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1103,7 +1158,8 @@
 <mods>
 <identifier type="filename">yrb_1907</identifier>
 <identifier type="pid">yrb:12335</identifier>
-<titleInfo><title>The volunteer, 1907</title></titleInfo> 
+<titleInfo><title>The volunteer, 1907</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 11</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1907</dateIssued><dateIssued encoding="edtf" keyDate="yes">1907</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1123,7 +1179,8 @@
 <mods>
 <identifier type="filename">yrb_1945</identifier>
 <identifier type="pid">yrb:25599</identifier>
-<titleInfo><title>The volunteer, 1945</title></titleInfo> 
+<titleInfo><title>The volunteer, 1945</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 48</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1945</dateIssued><dateIssued encoding="edtf" keyDate="yes">1945</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1143,7 +1200,8 @@
 <mods>
 <identifier type="filename">yrb_1946</identifier>
 <identifier type="pid">yrb:25946</identifier>
-<titleInfo><title>The volunteer, 1946</title></titleInfo> 
+<titleInfo><title>The volunteer, 1946</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 49</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1946</dateIssued><dateIssued encoding="edtf" keyDate="yes">1946</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1163,7 +1221,8 @@
 <mods>
 <identifier type="filename">yrb_1982</identifier>
 <identifier type="pid">yrb:40130</identifier>
-<titleInfo><title>The volunteer, 1982</title></titleInfo> 
+<titleInfo><title>The volunteer, 1982</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 85</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1982</dateIssued><dateIssued encoding="edtf" keyDate="yes">1982</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1183,7 +1242,8 @@
 <mods>
 <identifier type="filename">yrb_1951</identifier>
 <identifier type="pid">yrb:27931</identifier>
-<titleInfo><title>The volunteer, 1951</title></titleInfo> 
+<titleInfo><title>The volunteer, 1951</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 54</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1951</dateIssued><dateIssued encoding="edtf" keyDate="yes">1951</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1203,7 +1263,8 @@
 <mods>
 <identifier type="filename">yrb_1953</identifier>
 <identifier type="pid">yrb:28775</identifier>
-<titleInfo><title>The volunteer, 1953</title></titleInfo> 
+<titleInfo><title>The volunteer, 1953</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 56</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1953</dateIssued><dateIssued encoding="edtf" keyDate="yes">1953</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1223,7 +1284,8 @@
 <mods>
 <identifier type="filename">yrb_1899</identifier>
 <identifier type="pid">yrb:10393</identifier>
-<titleInfo><title>The volunteer, 1899</title></titleInfo> 
+<titleInfo><title>The volunteer, 1899</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 3</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1899</dateIssued><dateIssued encoding="edtf" keyDate="yes">1899</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1243,7 +1305,8 @@
 <mods>
 <identifier type="filename">yrb_1974</identifier>
 <identifier type="pid">yrb:37094</identifier>
-<titleInfo><title>The volunteer, 1974</title></titleInfo> 
+<titleInfo><title>The volunteer, 1974</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 77</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1974</dateIssued><dateIssued encoding="edtf" keyDate="yes">1974</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1263,7 +1326,8 @@
 <mods>
 <identifier type="filename">yrb_1942</identifier>
 <identifier type="pid">yrb:24548</identifier>
-<titleInfo><title>The volunteer, 1942</title></titleInfo> 
+<titleInfo><title>The volunteer, 1942</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 45</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1942</dateIssued><dateIssued encoding="edtf" keyDate="yes">1942</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1283,7 +1347,8 @@
 <mods>
 <identifier type="filename">yrb_2003</identifier>
 <identifier type="pid">yrb:46495</identifier>
-<titleInfo><title>The volunteer, 2003</title></titleInfo> 
+<titleInfo><title>The volunteer, 2003</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 106</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2003</dateIssued><dateIssued encoding="edtf" keyDate="yes">2003</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1303,7 +1368,8 @@
 <mods>
 <identifier type="filename">yrb_1906</identifier>
 <identifier type="pid">yrb:12024</identifier>
-<titleInfo><title>The volunteer, 1906</title></titleInfo> 
+<titleInfo><title>The volunteer, 1906</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 10</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1906</dateIssued><dateIssued encoding="edtf" keyDate="yes">1906</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1323,7 +1389,8 @@
 <mods>
 <identifier type="filename">yrb_1922</identifier>
 <identifier type="pid">yrb:17422</identifier>
-<titleInfo><title>The volunteer, 1922</title></titleInfo> 
+<titleInfo><title>The volunteer, 1922</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 25</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1922</dateIssued><dateIssued encoding="edtf" keyDate="yes">1922</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1343,7 +1410,8 @@
 <mods>
 <identifier type="filename">yrb_1936</identifier>
 <identifier type="pid">yrb:22370</identifier>
-<titleInfo><title>The volunteer, 1936</title></titleInfo> 
+<titleInfo><title>The volunteer, 1936</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 39</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1936</dateIssued><dateIssued encoding="edtf" keyDate="yes">1936</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1363,7 +1431,8 @@
 <mods>
 <identifier type="filename">yrb_1987</identifier>
 <identifier type="pid">yrb:41603</identifier>
-<titleInfo><title>The volunteer, 1987</title></titleInfo> 
+<titleInfo><title>The volunteer, 1987</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 90</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1987</dateIssued><dateIssued encoding="edtf" keyDate="yes">1987</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1383,7 +1452,8 @@
 <mods>
 <identifier type="filename">yrb_1965</identifier>
 <identifier type="pid">yrb:33177</identifier>
-<titleInfo><title>The volunteer, 1965</title></titleInfo> 
+<titleInfo><title>The volunteer, 1965</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 68</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1965</dateIssued><dateIssued encoding="edtf" keyDate="yes">1965</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1403,7 +1473,8 @@
 <mods>
 <identifier type="filename">yrb_1969</identifier>
 <identifier type="pid">yrb:34895</identifier>
-<titleInfo><title>The volunteer, 1969</title></titleInfo> 
+<titleInfo><title>The volunteer, 1969</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 72</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1969</dateIssued><dateIssued encoding="edtf" keyDate="yes">1969</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1423,7 +1494,8 @@
 <mods>
 <identifier type="filename">yrb_1981</identifier>
 <identifier type="pid">yrb:39777</identifier>
-<titleInfo><title>The volunteer, 1981</title></titleInfo> 
+<titleInfo><title>The volunteer, 1981</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 84</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1981</dateIssued><dateIssued encoding="edtf" keyDate="yes">1981</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1443,7 +1515,8 @@
 <mods>
 <identifier type="filename">yrb_1970</identifier>
 <identifier type="pid">yrb:35374</identifier>
-<titleInfo><title>The volunteer, 1970</title></titleInfo> 
+<titleInfo><title>The volunteer, 1970</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 73</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1970</dateIssued><dateIssued encoding="edtf" keyDate="yes">1970</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1463,7 +1536,8 @@
 <mods>
 <identifier type="filename">yrb_1997</identifier>
 <identifier type="pid">yrb:44597</identifier>
-<titleInfo><title>The volunteer, 1997</title></titleInfo> 
+<titleInfo><title>The volunteer, 1997</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 100</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1997</dateIssued><dateIssued encoding="edtf" keyDate="yes">1997</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1483,7 +1557,8 @@
 <mods>
 <identifier type="filename">yrb_1961</identifier>
 <identifier type="pid">yrb:31787</identifier>
-<titleInfo><title>The volunteer, 1961</title></titleInfo> 
+<titleInfo><title>The volunteer, 1961</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 64</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1961</dateIssued><dateIssued encoding="edtf" keyDate="yes">1961</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1503,7 +1578,8 @@
 <mods>
 <identifier type="filename">yrb_1913</identifier>
 <identifier type="pid">yrb:14049</identifier>
-<titleInfo><title>The volunteer, 1913</title></titleInfo> 
+<titleInfo><title>The volunteer, 1913</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 17</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1913</dateIssued><dateIssued encoding="edtf" keyDate="yes">1913</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1523,7 +1599,8 @@
 <mods>
 <identifier type="filename">yrb_1898</identifier>
 <identifier type="pid">yrb:10192</identifier>
-<titleInfo><title>The volunteer, 1898</title></titleInfo> 
+<titleInfo><title>The volunteer, 1898</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 2</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1898</dateIssued><dateIssued encoding="edtf" keyDate="yes">1898</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1543,7 +1620,8 @@
 <mods>
 <identifier type="filename">yrb_1978</identifier>
 <identifier type="pid">yrb:38598</identifier>
-<titleInfo><title>The volunteer, 1978</title></titleInfo> 
+<titleInfo><title>The volunteer, 1978</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 81</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1978</dateIssued><dateIssued encoding="edtf" keyDate="yes">1978</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1563,7 +1641,8 @@
 <mods>
 <identifier type="filename">yrb_1905</identifier>
 <identifier type="pid">yrb:11779</identifier>
-<titleInfo><title>The volunteer, 1905</title></titleInfo> 
+<titleInfo><title>The volunteer, 1905</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 9</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1905</dateIssued><dateIssued encoding="edtf" keyDate="yes">1905</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1583,7 +1662,8 @@
 <mods>
 <identifier type="filename">yrb_1975</identifier>
 <identifier type="pid">yrb:37495</identifier>
-<titleInfo><title>The volunteer, 1975</title></titleInfo> 
+<titleInfo><title>The volunteer, 1975</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 78</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1975</dateIssued><dateIssued encoding="edtf" keyDate="yes">1975</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1603,7 +1683,8 @@
 <mods>
 <identifier type="filename">yrb_1984</identifier>
 <identifier type="pid">yrb:40708</identifier>
-<titleInfo><title>The volunteer, 1984</title></titleInfo> 
+<titleInfo><title>The volunteer, 1984</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 87</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1984</dateIssued><dateIssued encoding="edtf" keyDate="yes">1984</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1623,7 +1704,8 @@
 <mods>
 <identifier type="filename">yrb_1967</identifier>
 <identifier type="pid">yrb:33955</identifier>
-<titleInfo><title>The volunteer, 1967</title></titleInfo> 
+<titleInfo><title>The volunteer, 1967</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 70</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1967</dateIssued><dateIssued encoding="edtf" keyDate="yes">1967</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1643,7 +1725,8 @@
 <mods>
 <identifier type="filename">yrb_1955</identifier>
 <identifier type="pid">yrb:29551</identifier>
-<titleInfo><title>The volunteer, 1955</title></titleInfo> 
+<titleInfo><title>The volunteer, 1955</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 58</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1955</dateIssued><dateIssued encoding="edtf" keyDate="yes">1955</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1663,7 +1746,8 @@
 <mods>
 <identifier type="filename">yrb_1949</identifier>
 <identifier type="pid">yrb:27125</identifier>
-<titleInfo><title>The volunteer, 1949</title></titleInfo> 
+<titleInfo><title>The volunteer, 1949</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 52</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1949</dateIssued><dateIssued encoding="edtf" keyDate="yes">1949</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1683,7 +1767,8 @@
 <mods>
 <identifier type="filename">yrb_1996</identifier>
 <identifier type="pid">yrb:44320</identifier>
-<titleInfo><title>The volunteer, 1996</title></titleInfo> 
+<titleInfo><title>The volunteer, 1996</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 99</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1996</dateIssued><dateIssued encoding="edtf" keyDate="yes">1996</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1703,7 +1788,8 @@
 <mods>
 <identifier type="filename">yrb_1948</identifier>
 <identifier type="pid">yrb:26692</identifier>
-<titleInfo><title>The volunteer, 1948</title></titleInfo> 
+<titleInfo><title>The volunteer, 1948</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 51</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1948</dateIssued><dateIssued encoding="edtf" keyDate="yes">1948</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1723,7 +1809,8 @@
 <mods>
 <identifier type="filename">yrb_1959</identifier>
 <identifier type="pid">yrb:31051</identifier>
-<titleInfo><title>The volunteer, 1959</title></titleInfo> 
+<titleInfo><title>The volunteer, 1959</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 62</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1959</dateIssued><dateIssued encoding="edtf" keyDate="yes">1959</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1743,7 +1830,8 @@
 <mods>
 <identifier type="filename">yrb_1924</identifier>
 <identifier type="pid">yrb:18108</identifier>
-<titleInfo><title>The volunteer, 1924</title></titleInfo> 
+<titleInfo><title>The volunteer, 1924</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 27</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1924</dateIssued><dateIssued encoding="edtf" keyDate="yes">1924</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1763,7 +1851,8 @@
 <mods>
 <identifier type="filename">yrb_1947</identifier>
 <identifier type="pid">yrb:26291</identifier>
-<titleInfo><title>The volunteer, 1947</title></titleInfo> 
+<titleInfo><title>The volunteer, 1947</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 50</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1947</dateIssued><dateIssued encoding="edtf" keyDate="yes">1947</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1783,7 +1872,8 @@
 <mods>
 <identifier type="filename">yrb_1930</identifier>
 <identifier type="pid">yrb:20156</identifier>
-<titleInfo><title>The volunteer, 1930</title></titleInfo> 
+<titleInfo><title>The volunteer, 1930</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 33</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1930</dateIssued><dateIssued encoding="edtf" keyDate="yes">1930</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1803,7 +1893,8 @@
 <mods>
 <identifier type="filename">yrb_1927</identifier>
 <identifier type="pid">yrb:19129</identifier>
-<titleInfo><title>The volunteer, 1927</title></titleInfo> 
+<titleInfo><title>The volunteer, 1927</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 30</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1927</dateIssued><dateIssued encoding="edtf" keyDate="yes">1927</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1823,7 +1914,8 @@
 <mods>
 <identifier type="filename">yrb_1904</identifier>
 <identifier type="pid">yrb:11550</identifier>
-<titleInfo><title>The volunteer, 1904</title></titleInfo> 
+<titleInfo><title>The volunteer, 1904</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 8</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1904</dateIssued><dateIssued encoding="edtf" keyDate="yes">1904</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1843,7 +1935,8 @@
 <mods>
 <identifier type="filename">yrb_2008</identifier>
 <identifier type="pid">yrb:48152</identifier>
-<titleInfo><title>Evolve: the volunteer annual of the University of Tennessee, 2008</title></titleInfo> 
+<titleInfo><title>Evolve: the volunteer annual of the University of Tennessee, 2008</title></titleInfo>
+<titleInfo type="alternative"><title>Evolve: the volunteer annual of the University of Tennessee, volume 111</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2008</dateIssued><dateIssued encoding="edtf" keyDate="yes">2008</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1863,7 +1956,8 @@
 <mods>
 <identifier type="filename">yrb_1968</identifier>
 <identifier type="pid">yrb:34418</identifier>
-<titleInfo><title>The volunteer, 1968</title></titleInfo> 
+<titleInfo><title>The volunteer, 1968</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 71</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1968</dateIssued><dateIssued encoding="edtf" keyDate="yes">1968</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1883,7 +1977,8 @@
 <mods>
 <identifier type="filename">yrb_1903</identifier>
 <identifier type="pid">yrb:11293</identifier>
-<titleInfo><title>The volunteer, 1903</title></titleInfo> 
+<titleInfo><title>The volunteer, 1903</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 7</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1903</dateIssued><dateIssued encoding="edtf" keyDate="yes">1903</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1903,7 +1998,8 @@
 <mods>
 <identifier type="filename">yrb_1928</identifier>
 <identifier type="pid">yrb:19466</identifier>
-<titleInfo><title>The volunteer, 1928</title></titleInfo> 
+<titleInfo><title>The volunteer, 1928</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 31</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1928</dateIssued><dateIssued encoding="edtf" keyDate="yes">1928</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1923,7 +2019,8 @@
 <mods>
 <identifier type="filename">yrb_1908</identifier>
 <identifier type="pid">yrb:12606</identifier>
-<titleInfo><title>The volunteer, 1908</title></titleInfo> 
+<titleInfo><title>The volunteer, 1908</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 12</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1908</dateIssued><dateIssued encoding="edtf" keyDate="yes">1908</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1943,7 +2040,8 @@
 <mods>
 <identifier type="filename">yrb_1934</identifier>
 <identifier type="pid">yrb:21674</identifier>
-<titleInfo><title>The volunteer, 1934</title></titleInfo> 
+<titleInfo><title>The volunteer, 1934</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 37</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1934</dateIssued><dateIssued encoding="edtf" keyDate="yes">1934</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1963,7 +2061,8 @@
 <mods>
 <identifier type="filename">yrb_1917</identifier>
 <identifier type="pid">yrb:15463</identifier>
-<titleInfo><title>The volunteer, 1917</title></titleInfo> 
+<titleInfo><title>The volunteer, 1917</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 21</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1917</dateIssued><dateIssued encoding="edtf" keyDate="yes">1917</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -1983,7 +2082,8 @@
 <mods>
 <identifier type="filename">yrb_1915</identifier>
 <identifier type="pid">yrb:14779</identifier>
-<titleInfo><title>The volunteer, 1915</title></titleInfo> 
+<titleInfo><title>The volunteer, 1915</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 19</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1915</dateIssued><dateIssued encoding="edtf" keyDate="yes">1915</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2003,7 +2103,8 @@
 <mods>
 <identifier type="filename">yrb_1964</identifier>
 <identifier type="pid">yrb:32810</identifier>
-<titleInfo><title>The volunteer, 1964</title></titleInfo> 
+<titleInfo><title>The volunteer, 1964</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 67</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1964</dateIssued><dateIssued encoding="edtf" keyDate="yes">1964</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2023,7 +2124,8 @@
 <mods>
 <identifier type="filename">yrb_1931</identifier>
 <identifier type="pid">yrb:20493</identifier>
-<titleInfo><title>The volunteer, 1931</title></titleInfo> 
+<titleInfo><title>The volunteer, 1931</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 34</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1931</dateIssued><dateIssued encoding="edtf" keyDate="yes">1931</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2043,7 +2145,8 @@
 <mods>
 <identifier type="filename">yrb_2001</identifier>
 <identifier type="pid">yrb:45743</identifier>
-<titleInfo><title>The volunteer, 2001</title></titleInfo> 
+<titleInfo><title>The volunteer, 2001</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 104</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2001</dateIssued><dateIssued encoding="edtf" keyDate="yes">2001</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2063,7 +2166,8 @@
 <mods>
 <identifier type="filename">yrb_1994</identifier>
 <identifier type="pid">yrb:43756</identifier>
-<titleInfo><title>The volunteer, 1994</title></titleInfo> 
+<titleInfo><title>The volunteer, 1994</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 97</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1994</dateIssued><dateIssued encoding="edtf" keyDate="yes">1994</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2083,7 +2187,8 @@
 <mods>
 <identifier type="filename">yrb_1937</identifier>
 <identifier type="pid">yrb:22737</identifier>
-<titleInfo><title>The volunteer, 1937</title></titleInfo> 
+<titleInfo><title>The volunteer, 1937</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 40</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1937</dateIssued><dateIssued encoding="edtf" keyDate="yes">1937</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2103,7 +2208,8 @@
 <mods>
 <identifier type="filename">yrb_1980</identifier>
 <identifier type="pid">yrb:39424</identifier>
-<titleInfo><title>The volunteer, 1980</title></titleInfo> 
+<titleInfo><title>The volunteer, 1980</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 83</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1980</dateIssued><dateIssued encoding="edtf" keyDate="yes">1980</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2123,7 +2229,8 @@
 <mods>
 <identifier type="filename">yrb_2002</identifier>
 <identifier type="pid">yrb:46154</identifier>
-<titleInfo><title>The volunteer, 2002</title></titleInfo> 
+<titleInfo><title>The volunteer, 2002</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 105</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2002</dateIssued><dateIssued encoding="edtf" keyDate="yes">2002</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2143,7 +2250,8 @@
 <mods>
 <identifier type="filename">yrb_1897</identifier>
 <identifier type="pid">yrb:10001</identifier>
-<titleInfo><title>The volunteer, 1897</title></titleInfo> 
+<titleInfo><title>The volunteer, 1897</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 1</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1897</dateIssued><dateIssued encoding="edtf" keyDate="yes">1897</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2163,7 +2271,8 @@
 <mods>
 <identifier type="filename">yrb_2006</identifier>
 <identifier type="pid">yrb:47770</identifier>
-<titleInfo><title>The volunteer, 2006</title></titleInfo> 
+<titleInfo><title>The volunteer, 2006</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 109</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>2006</dateIssued><dateIssued encoding="edtf" keyDate="yes">2006</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2183,7 +2292,8 @@
 <mods>
 <identifier type="filename">yrb_1958</identifier>
 <identifier type="pid">yrb:30712</identifier>
-<titleInfo><title>The volunteer, 1958</title></titleInfo> 
+<titleInfo><title>The volunteer, 1958</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 61</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1958</dateIssued><dateIssued encoding="edtf" keyDate="yes">1958</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2203,7 +2313,8 @@
 <mods>
 <identifier type="filename">yrb_1943</identifier>
 <identifier type="pid">yrb:24933</identifier>
-<titleInfo><title>The volunteer, 1943</title></titleInfo> 
+<titleInfo><title>The volunteer, 1943</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 46</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1943</dateIssued><dateIssued encoding="edtf" keyDate="yes">1943</dateIssued><publisher>University of Tennessee (Knoxville campus)</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
@@ -2223,7 +2334,8 @@
 <mods>
 <identifier type="filename">yrb_1972</identifier>
 <identifier type="pid">yrb:36348</identifier>
-<titleInfo><title>The volunteer, 1972</title></titleInfo> 
+<titleInfo><title>The volunteer, 1972</title></titleInfo>
+<titleInfo type="alternative"><title>The volunteer, volume 75</title></titleInfo> 
 <abstract>Student-produced yearbook of the University of Tennessee at Knoxville.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026646">yearbooks</form></physicalDescription>
 <originInfo><dateIssued>1972</dateIssued><dateIssued encoding="edtf" keyDate="yes">1972</dateIssued><publisher>University of Tennessee, Knoxville</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
